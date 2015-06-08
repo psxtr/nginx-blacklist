@@ -14,6 +14,9 @@
       return 403;
     }
     ```
+    if ($bad_referer) { 
+    return 444; 
+    } 
 
 ### Configure
 
